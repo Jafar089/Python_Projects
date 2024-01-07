@@ -1,0 +1,4 @@
+{
+    "john_doe": ["password123", "PLAYER"],
+    "admin_user": ["admin_password", "ADMIN"]
+}
