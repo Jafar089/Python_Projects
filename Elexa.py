@@ -51,7 +51,7 @@ def run_alexa():
             print(info)
             Talk(info)
         elif 'girlfriend' in command:
-            Talk('Maheen is your future girlfriend')
+            Talk('Sorry, you dont have any future girlfriend')
         elif 'joke' in command:
             joke = pyjokes.get_joke()
             print(joke)
